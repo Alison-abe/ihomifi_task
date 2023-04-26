@@ -125,6 +125,7 @@ class _New_RoomState extends State<New_Room> {
                 for(int i=0;i<no_of_appliances;i++){
                   Controllers[i].clear();
                 }
+                room_appliances.clear();
                 Navigator.of(context).pushReplacement(MaterialPageRoute(
                       builder: ((context) => const Homepage())));
                 },
