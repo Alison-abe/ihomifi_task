@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "407910118661",
+    "project_id": "ihomifi-22b5d",
+    "storage_bucket": "ihomifi-22b5d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:407910118661:android:e5da8f61acfb1fd3e3f36c",
+        "android_client_info": {
+          "package_name": "com.example.ihomifi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "407910118661-qf7ja7c31jd6dhkn8vrrl74nhls16u9i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVYax0IY_RxzHQUyzayd7GY5cZ3tcuWOM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "407910118661-qf7ja7c31jd6dhkn8vrrl74nhls16u9i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
